@@ -1,0 +1,39 @@
+
+.header1{
+    text-align: left;
+    margin-left: 30px;
+}
+.cart-item{
+    height: 350px;
+    border: 2px solid gray;
+    margin: 10px;
+    cursor: pointer;
+}
+.cart-item:hover{
+    background-color: rgb(197, 189, 189);
+}
+.overall12{
+   display: flex;
+   justify-content:center;
+   flex-wrap: wrap;
+}
+.image-container img {
+    padding: 5px;
+    border-radius: 15px;
+    width: 220px;
+    height: 200px;
+}
+.content-container{
+    position: relative;
+    bottom: 21px;
+    left: 8px;
+    text-align: left;
+    padding-bottom: 10px;
+}
+.rating mark{
+    border-radius: 15px;
+    color: red;
+    position: relative;
+    bottom: 40px;
+    right: 80px;
+}

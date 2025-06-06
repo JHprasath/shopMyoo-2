@@ -1,0 +1,20 @@
+{
+   
+    "slids" : [
+            {
+                "id" : 101 ,
+                "image" : "https://harnishdesign.net/demo/opencart/bigshop/v2/image/cache/catalog/demo/banners/additional-off-1140x375.jpg",
+                "text" : "froots"
+            },
+            {
+                "id" : 102 ,
+                "image" : "https://harnishdesign.net/demo/opencart/bigshop/v2/image/cache/catalog/demo/banners/iPhone6-1140x375.jpg",
+                "text" : "vegitables"
+            },
+            {
+                "id" : 103 ,
+                "image" : "https://harnishdesign.net/demo/opencart/bigshop/v2/image/cache/catalog/demo/banners/MacBookAir-1140x375.jpg",
+                "text" : "women-dress-collection"
+            }
+        ]
+    }

@@ -1,0 +1,92 @@
+.footer {
+    background: #f8f8f8;
+    padding: 40px 20px 20px;
+    font-family: Arial, sans-serif;
+    color: #555;
+    font-size: 14px;
+  }
+  
+  .footer-top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 30px;
+  }
+  
+  .footer-section, .footer-contact {
+    flex: 1 1 180px;
+    margin: 10px;
+  }
+  
+  .footer-section h3, .footer-contact h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section ul li {
+    margin: 8px 0;
+    cursor: pointer;
+  }
+  
+  .footer-contact p {
+    margin: 8px 0;
+  }
+  
+  .footer-middle {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .payment-icons img {
+    height: 30px;
+    margin: 0 10px;
+  }
+  
+  .footer-bottom {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 20px 0;
+    border-top: 1px solid #ddd;
+  }
+  
+  .custom-block, .shopping-worldwide {
+    flex: 1 1 300px;
+    margin: 10px;
+  }
+  
+  .custom-block h4, .shopping-worldwide h4 {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .custom-block p, .shopping-worldwide p {
+    margin-bottom: 10px;
+  }
+  
+  .footer-end {
+    text-align: center;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+    margin-top: 20px;
+  }
+  
+  .footer-end a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .social-icons a img {
+    height: 24px;
+    margin: 0 5px;
+    vertical-align: middle;
+  }
